@@ -1,0 +1,1 @@
+# typemock-core
