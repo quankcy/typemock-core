@@ -1,0 +1,10 @@
+{
+  "name": "typemock-core",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Quankcy",
+  "license": "MIT",
+  "devDependencies": {
+    "puppeteer": "^1.19.0"
+  }
+}
